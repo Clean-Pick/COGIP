@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+
+@theme {
+    --color-cogip-yellow: rgb(249, 222, 78);
+    --color-cogip-blue: rgba(150, 152, 214, 1);
+}
+
+:root {
+    --font-cogip-inter: "Inter", serif;
+    --font-cogip-roboto: "Roboto", sans-serif;
+}
